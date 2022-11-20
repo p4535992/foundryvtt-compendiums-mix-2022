@@ -1,11 +1,11 @@
 
 ![](https://img.shields.io/badge/Foundry-v0.8.6-informational)
 
-# FoundryVTT Compendiums World Stormsteel
+# FoundryVTT Compendiums Mmix Dnd5e Map
   
 This is a collection of some private projects compendiums.
 
-I'm not suggesting you should use is very bugged collection.
+All images and resources should be freely licensed if any of the authors of the original resources have any problems, please open an issue on the project and I will see if I can remove all the resources he indicated as soon as possible.
 
 ## Installation
 
@@ -15,7 +15,7 @@ To install this module manually:
 1.  Inside the Foundry "Configuration and Setup" screen, click "Add-on Modules"
 2.  Click "Install Module"
 3.  In the "Manifest URL" field, paste the following url:
-`https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/src/module.json`
+`https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/master/src/module.json`
 4.  Click 'Install' and wait for installation to complete
 5.  Don't forget to enable the module in game using the "Manage Module" button
 
@@ -23,15 +23,8 @@ To install this module manually:
 
 Thanks to anyone who helps me with this code! I appreciate the user community's feedback on this project!
 
-- [Table of Contents Journal Entries for the Forgotten Adventures Extensive DM Screen 5e](https://gitlab.com/fohswe/fa-dm-screen)
-
 ## License
 
-This Foundry VTT module is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This Foundry VTT module is not licensed the license is derived from the resource used.
+
 This work is licensed under Foundry Virtual Tabletop [EULA - Limited License Agreement for module development v 0.1.6](http://foundryvtt.com/pages/license.html).
-
-## Acknowledgements
-
-Bootstrapped with League of Extraordinary FoundryVTT Developers  [foundry-vtt-types](https://github.com/League-of-Foundry-Developers/foundry-vtt-types).
-
-Mad props to the 'League of Extraordinary FoundryVTT Developers' community which helped me figure out a lot.

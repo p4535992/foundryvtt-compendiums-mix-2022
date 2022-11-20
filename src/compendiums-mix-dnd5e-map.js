@@ -1,4 +1,4 @@
-const COMPENDIUM_WORLD_STORMSTEEL_MODULE_NAME = 'compendiums-world-stormsteel';
+const COMPENDIUM_MIX_DND5e_MAP_MODULE_NAME = 'compendiums-mix-dnd5e-map';
 
 /* ------------------------------------ */
 /* Initialize module					*/
@@ -18,20 +18,9 @@ Hooks.once('setup', function () {
 /* When ready							*/
 /* ------------------------------------ */
 Hooks.once('ready', () => {
-  /* Check for our DM Screen when Journals are opened, so we can resize it */
-
-  Hooks.on('renderJournalSheet', (app, html, data) => {
-    const title = app.title;
-    if (title !== 'Forgotten Adventures Extensive DM Screen') {
-      return;
-    }
-
-    app.setPosition({
-      height: 890,
-      width: 800,
-    });
-  });
+  
 });
+
 //--------------------------------------
 //----setting compendiums
 //--------------------------------------
@@ -47,9 +36,9 @@ Hooks.on('renderSidebarTab', function () {
 function compendiumColor() {
   var comps = document.getElementsByClassName('pack-title');
   for (let comp of comps) {
-    let indexStormsteel = comp.innerText.indexOf('STST');
+    let indexStormsteel = comp.innerText.indexOf('MDND5EP');
     if (indexStormsteel !== -1) {
-      comp.style.color = 'DarkBlue';
+      comp.style.color = 'DarkYellow';
     }
   }
 }
