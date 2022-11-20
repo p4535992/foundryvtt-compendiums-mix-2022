@@ -1,7 +1,5 @@
 
-![](https://img.shields.io/badge/Foundry-v0.8.6-informational)
-
-# FoundryVTT Compendiums Mmix Dnd5e Map
+# FoundryVTT Compendiums Mix Dnd5e Map
   
 This is a collection of some private projects compendiums.
 
