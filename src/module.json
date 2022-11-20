@@ -54,8 +54,8 @@
   "packs": [
     {
       "name": "dnd5e-map-2022-scene",
-      "type": "Dnd5e Map 2022 Scene",
-      "label": "STST - Scene",
+      "type": "Scene",
+      "label": "Dnd5e Map 2022 - Scene",
       "path": "packs/dnd5e-map-2022-scene.db",
       "module": "compendiums-mix-dnd5e-map"
     }
