@@ -2,7 +2,7 @@
   "id": "compendiums-mix-dnd5e-map",
   "title": "FoundryVTT Compendiums Mix Dnd5e Map",
   "description": "Compendiums collection Mix Dnd5e Map",
-  "version": "1.0.1",
+  "version": "1.0.2",
 	"authors": [
 		{
 			"name": "p4535992",
@@ -71,9 +71,9 @@
 	"manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map",
   "manifest": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/releases/latest/download/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/releases/download/v1.0.1/module.zip",
-  "readme": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/blob/v1.0.1/README.md",
-  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/blob/v1.0.1/changelog.md",
+  "download": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/releases/download/v1.0.2/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/blob/v1.0.2/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/blob/v1.0.2/changelog.md",
   "bugs": "https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e-map/issues",
   "allowBugReporter": true,
 	"relationships": {
