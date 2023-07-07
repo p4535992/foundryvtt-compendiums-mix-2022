@@ -18,9 +18,9 @@ import vue from '@vitejs/plugin-vue'
 
 // For convenience, you just need to modify the package ID below as it is used to fill in default proxy settings for
 // the dev server.
-const s_MODULE_ID = "compendiums-mix-dnd5e";
+const s_MODULE_ID = "compendiums-mix-dnd5e-map";
 const s_PACKAGE_ID = "modules/"+s_MODULE_ID;
-const s_ENTRY_JAVASCRIPT = "compendiums-mix-dnd5e.mjs";
+const s_ENTRY_JAVASCRIPT = "compendiums-mix-dnd5e-map.mjs";
 
 // A short additional string to add to Svelte CSS hash values to make yours unique. This reduces the amount of
 // duplicated framework CSS overlap between many TRL packages enabled on Foundry VTT at the same time. 'ese' is chosen
